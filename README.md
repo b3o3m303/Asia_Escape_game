@@ -10,18 +10,19 @@
 
 ![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/8.jpg)
 
-![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/7.jpg)
+![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/0.jpg)
 
-![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/6.jpg
-
-![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/5.jpg)
-
-![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/4.jpg)
-
-![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/3.jpg)
+![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/1.jpg
 
 ![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/2.jpg)
 
-![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/1.jpg)
+![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/3.jpg)
 
-![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/0.jpg)
+![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/4.jpg)
+
+![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/5.jpg)
+
+![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/6.jpg)
+
+
+![image](https://github.com/b3o3m303/Asia_Escape_game/blob/master/Fig/7.jpg)
